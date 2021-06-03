@@ -1,5 +1,5 @@
 # Hi there, 👋 I'm thetechguy61705
-## Welcome to my profile!
+## Welcome to my profile! :godmode:
 
 <!--
 **thetechguy61705/thetechguy61705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 [x] I am also part of the FIRST Robotics community as a Java programmer
 ### Languages/Tools known
 
-[x] Bootstrap
-[x] Node.js server-side JavaScript
-[ ] Newbie in Java
-[x] Express.js
-[x] Bootstrap Studio
-[x] GitHub
+- [x] Bootstrap
+- [x] Node.js server-side JavaScript
+- [ ] Newbie in Java
+- [x] Express.js
+- [x] Bootstrap Studio
+- [x] GitHub
 
