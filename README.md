@@ -7,12 +7,8 @@
 ### What do I do?
 - [x] I am a :atom: Node.js Developer who makes Discord bots & websites
 - [x] I am also part of the FIRST Robotics community as a Java programmer
-### Languages/Tools Used
 
-- [x] Bootstrap
-- [x] Node.js server-side JavaScript
-- [x] Java
-- [x] Express.js
-- [x] Bootstrap Studio
-- [x] GitHub
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,boostrap,discord,mongodb,nodejs,vscode&theme=dark)](https://skillicons.dev)
 
